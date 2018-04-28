@@ -1,0 +1,39 @@
+<?xml version = "1.0"?>
+<animal>
+	<dog>
+		<name>Puffy</name>
+		<mammal>1</mammal>
+		<weight>31.4</weight>
+		<height>1.0</height>
+	</dog>
+	<cat>
+		<name>Mr. Whiskers</name>
+		<mammal>1</mammal>
+		<weight>9.7</weight>
+		<height>0.65</height>
+	</cat>
+	<pigeon>
+		<name>Mailman Roberto</name>
+		<bird>1</bird>
+		<weight>0.95</weight>
+		<height>0.41</height>
+	</pigeon>
+	<dog>
+		<name>Old Jack</name>
+		<mammal>1</mammal>
+		<weight>30.7</weight>
+		<height>0.95</height>
+	</dog>
+	<pigeon>
+		<name>Jetbrain</name>
+		<bird>1</bird>
+		<weight>0.82</weight>
+		<height>0.39</height>
+	</pigeon>
+	<cat>
+		<name>Mr. Whiskers II</name>
+		<mammal>1</mammal>
+		<weight>7.3</weight>
+		<height>0.57</height>
+	</cat>
+</animal>
